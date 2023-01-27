@@ -1,7 +1,7 @@
 import { useState } from "react";
 import reactLogo from "./assets/react.svg";
 import "./App.css";
-import Nav from "./components/Nav";
+
 import ToDoContainer from "./components/ToDoContainer";
 
 function App() {
