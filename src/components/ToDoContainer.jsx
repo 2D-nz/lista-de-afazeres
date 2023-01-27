@@ -4,7 +4,7 @@ import { ArrowDown, Check } from "phosphor-react";
 function ToDoContainer() {
 	const [toDoList, setTodoList] = useState([
 		"Ir para o Muay Thai",
-		"Cometer crimes de ódio",
+		"Dar banho no cachorro",
 	]);
 
 	const [newTodo, setNewTodo] = useState("");
